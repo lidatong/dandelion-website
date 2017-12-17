@@ -1,4 +1,5 @@
 # dandelion-website
 
-Check out the website here http://www.dandelionenglish.org/
+Snapshot: https://lidatong.github.io/dandelion-website/
+Live: http://www.dandelionenglish.org/
 
